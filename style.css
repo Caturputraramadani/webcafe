@@ -257,6 +257,7 @@ body {
   background-position: center;
   position: relative;
   mask-image: linear-gradient(rgba(0,0,0,1) 70%, rgba(0,0,0,0));
+  -webkit-mask-image: linear-gradient(rgba(0,0,0,1) 70%, rgba(0,0,0,0));
 }
 
 /* .hero::after {
